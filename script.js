@@ -13,6 +13,6 @@ function calculateBMI() {
         
         document.getElementById('result').innerHTML = message;
     } else {
-        document.getElementById('result').innerHTML = "Please enter both height and weight.";
+        document.getElementById('result').innerHTML = "Please enter your both height and weight.";
     }
 }
